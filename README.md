@@ -11,9 +11,8 @@ Open in VS Code
 
 Open CMD terminal
 -------------------    
-'''
-cd project
-'''
-'''
-python manage.py runserver
-'''
+    '''
+    cd project
+
+    python manage.py runserver
+    '''
