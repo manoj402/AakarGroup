@@ -4,6 +4,5 @@ Aakar Group Of Company
 
     install django
 
-    install pillow
 
     python manage.py runserver
